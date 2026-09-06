@@ -1,0 +1,9 @@
+# Přeložená binárka a mezivýstupy assembleru
+tetris
+*.o
+
+# Lokální stav nástroje Claude Code
+.claude/
+
+# macOS metadata
+.DS_Store
