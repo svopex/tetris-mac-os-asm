@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="501" viewBox="0 0 450 501" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">
+<rect width="450" height="501" rx="10" fill="#12141a"/>
+<rect width="450" height="28" rx="10" fill="#1b1e26"/>
+<rect y="18" width="450" height="10" fill="#1b1e26"/>
+<circle cx="18" cy="14" r="5.5" fill="#ff5f57"/>
+<circle cx="36" cy="14" r="5.5" fill="#febc2e"/>
+<circle cx="54" cy="14" r="5.5" fill="#28c840"/>
+<rect x="45.0" y="84.0" width="180.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="103.0" width="72.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="117.0" y="103.0" width="18.0" height="19.0" fill="#00ffff" shape-rendering="crispEdges"/>
+<rect x="135.0" y="103.0" width="90.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="279.0" y="103.0" width="18.0" height="19.0" fill="#ff00ff" shape-rendering="crispEdges"/>
+<rect x="45.0" y="122.0" width="72.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="117.0" y="122.0" width="18.0" height="19.0" fill="#00ffff" shape-rendering="crispEdges"/>
+<rect x="135.0" y="122.0" width="90.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="261.0" y="122.0" width="54.0" height="19.0" fill="#ff00ff" shape-rendering="crispEdges"/>
+<rect x="45.0" y="141.0" width="72.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="117.0" y="141.0" width="18.0" height="19.0" fill="#00ffff" shape-rendering="crispEdges"/>
+<rect x="135.0" y="141.0" width="90.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="160.0" width="72.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="117.0" y="160.0" width="18.0" height="19.0" fill="#00ffff" shape-rendering="crispEdges"/>
+<rect x="135.0" y="160.0" width="90.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="179.0" width="180.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="198.0" width="18.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="63.0" y="198.0" width="18.0" height="19.0" fill="#00ff00" shape-rendering="crispEdges"/>
+<rect x="81.0" y="198.0" width="144.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="217.0" width="18.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="63.0" y="217.0" width="36.0" height="19.0" fill="#00ff00" shape-rendering="crispEdges"/>
+<rect x="99.0" y="217.0" width="126.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="236.0" width="36.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="81.0" y="236.0" width="18.0" height="19.0" fill="#00ff00" shape-rendering="crispEdges"/>
+<rect x="99.0" y="236.0" width="126.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="255.0" width="18.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="63.0" y="255.0" width="36.0" height="19.0" fill="#0000ff" shape-rendering="crispEdges"/>
+<rect x="99.0" y="255.0" width="18.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="117.0" y="255.0" width="18.0" height="19.0" fill="#444444" shape-rendering="crispEdges"/>
+<rect x="135.0" y="255.0" width="90.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="274.0" width="18.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="63.0" y="274.0" width="18.0" height="19.0" fill="#0000ff" shape-rendering="crispEdges"/>
+<rect x="81.0" y="274.0" width="36.0" height="19.0" fill="#ffff00" shape-rendering="crispEdges"/>
+<rect x="117.0" y="274.0" width="18.0" height="19.0" fill="#444444" shape-rendering="crispEdges"/>
+<rect x="135.0" y="274.0" width="90.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="293.0" width="18.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="63.0" y="293.0" width="18.0" height="19.0" fill="#0000ff" shape-rendering="crispEdges"/>
+<rect x="81.0" y="293.0" width="36.0" height="19.0" fill="#ffff00" shape-rendering="crispEdges"/>
+<rect x="117.0" y="293.0" width="18.0" height="19.0" fill="#444444" shape-rendering="crispEdges"/>
+<rect x="135.0" y="293.0" width="90.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="312.0" width="36.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="81.0" y="312.0" width="36.0" height="19.0" fill="#ff0000" shape-rendering="crispEdges"/>
+<rect x="117.0" y="312.0" width="18.0" height="19.0" fill="#444444" shape-rendering="crispEdges"/>
+<rect x="135.0" y="312.0" width="90.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="331.0" width="54.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="99.0" y="331.0" width="36.0" height="19.0" fill="#ff0000" shape-rendering="crispEdges"/>
+<rect x="135.0" y="331.0" width="54.0" height="19.0" fill="#ff8700" shape-rendering="crispEdges"/>
+<rect x="189.0" y="331.0" width="36.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="350.0" width="54.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="99.0" y="350.0" width="36.0" height="19.0" fill="#ffff00" shape-rendering="crispEdges"/>
+<rect x="135.0" y="350.0" width="18.0" height="19.0" fill="#ff8700" shape-rendering="crispEdges"/>
+<rect x="153.0" y="350.0" width="72.0" height="19.0" fill="#00ffff" shape-rendering="crispEdges"/>
+<rect x="45.0" y="369.0" width="54.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="99.0" y="369.0" width="36.0" height="19.0" fill="#ffff00" shape-rendering="crispEdges"/>
+<rect x="135.0" y="369.0" width="18.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="153.0" y="369.0" width="36.0" height="19.0" fill="#ff0000" shape-rendering="crispEdges"/>
+<rect x="189.0" y="369.0" width="36.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="388.0" width="36.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="81.0" y="388.0" width="54.0" height="19.0" fill="#ff00ff" shape-rendering="crispEdges"/>
+<rect x="135.0" y="388.0" width="36.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="171.0" y="388.0" width="36.0" height="19.0" fill="#ff0000" shape-rendering="crispEdges"/>
+<rect x="207.0" y="388.0" width="18.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="407.0" width="54.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="99.0" y="407.0" width="18.0" height="19.0" fill="#ff00ff" shape-rendering="crispEdges"/>
+<rect x="117.0" y="407.0" width="72.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="189.0" y="407.0" width="18.0" height="19.0" fill="#00ff00" shape-rendering="crispEdges"/>
+<rect x="207.0" y="407.0" width="18.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="45.0" y="426.0" width="18.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="63.0" y="426.0" width="54.0" height="19.0" fill="#0000ff" shape-rendering="crispEdges"/>
+<rect x="117.0" y="426.0" width="54.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="171.0" y="426.0" width="18.0" height="19.0" fill="#ff8700" shape-rendering="crispEdges"/>
+<rect x="189.0" y="426.0" width="36.0" height="19.0" fill="#00ff00" shape-rendering="crispEdges"/>
+<rect x="45.0" y="445.0" width="54.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="99.0" y="445.0" width="18.0" height="19.0" fill="#0000ff" shape-rendering="crispEdges"/>
+<rect x="117.0" y="445.0" width="18.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="135.0" y="445.0" width="54.0" height="19.0" fill="#ff8700" shape-rendering="crispEdges"/>
+<rect x="189.0" y="445.0" width="18.0" height="19.0" fill="#262626" shape-rendering="crispEdges"/>
+<rect x="207.0" y="445.0" width="18.0" height="19.0" fill="#00ff00" shape-rendering="crispEdges"/>
+<text y="60.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" font-weight="700" fill="#00cdcd">T</tspan><tspan x="54.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" font-weight="700" fill="#00cdcd">E</tspan><tspan x="72.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" font-weight="700" fill="#00cdcd">T</tspan><tspan x="90.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" font-weight="700" fill="#00cdcd">R</tspan><tspan x="108.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" font-weight="700" fill="#00cdcd">I</tspan><tspan x="126.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" font-weight="700" fill="#00cdcd">S</tspan><tspan x="162.0" textLength="45.0" lengthAdjust="spacingAndGlyphs" opacity="0.55" fill="#d6d9e0">arm64</tspan><tspan x="216.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" opacity="0.55" fill="#d6d9e0">·</tspan><tspan x="234.0" textLength="45.0" lengthAdjust="spacingAndGlyphs" opacity="0.55" fill="#d6d9e0">macOS</tspan><tspan x="288.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" opacity="0.55" fill="#d6d9e0">·</tspan><tspan x="306.0" textLength="27.0" lengthAdjust="spacingAndGlyphs" opacity="0.55" fill="#d6d9e0">bez</tspan><tspan x="342.0" textLength="72.0" lengthAdjust="spacingAndGlyphs" opacity="0.55" fill="#d6d9e0">knihoven</tspan></text>
+<text y="79.1" xml:space="preserve"><tspan x="36.0" textLength="198.0" lengthAdjust="spacingAndGlyphs" fill="#808080">╔════════════════════╗</tspan></text>
+<text y="98.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="261.0" textLength="45.0" lengthAdjust="spacingAndGlyphs" font-weight="700" fill="#d6d9e0">DALŠÍ</tspan></text>
+<text y="117.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan></text>
+<text y="136.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan></text>
+<text y="155.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan></text>
+<text y="174.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan></text>
+<text y="193.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan></text>
+<text y="212.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="261.0" textLength="54.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">SKÓRE:</tspan><tspan x="333.0" textLength="54.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">000300</tspan></text>
+<text y="231.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="261.0" textLength="63.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">ÚROVEŇ:</tspan><tspan x="333.0" textLength="18.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">01</tspan></text>
+<text y="250.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="261.0" textLength="54.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">ŘÁDKY:</tspan><tspan x="333.0" textLength="27.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">000</tspan></text>
+<text y="269.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan></text>
+<text y="288.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="261.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#00cdcd">←</tspan><tspan x="279.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#00cdcd">→</tspan><tspan x="324.0" textLength="45.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">posun</tspan></text>
+<text y="307.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="261.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#00cdcd">↑</tspan><tspan x="279.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#00cdcd">/</tspan><tspan x="297.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#00cdcd">X</tspan><tspan x="324.0" textLength="54.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">otočit</tspan></text>
+<text y="326.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="261.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#00cdcd">Z</tspan><tspan x="324.0" textLength="54.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">otočit</tspan><tspan x="387.0" textLength="36.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">zpět</tspan></text>
+<text y="345.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="261.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#00cdcd">↓</tspan><tspan x="324.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">o</tspan><tspan x="342.0" textLength="45.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">řádek</tspan><tspan x="396.0" textLength="27.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">níž</tspan></text>
+<text y="364.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="261.0" textLength="54.0" lengthAdjust="spacingAndGlyphs" fill="#00cdcd">mezera</tspan><tspan x="324.0" textLength="45.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">dopad</tspan></text>
+<text y="383.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="261.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#00cdcd">P</tspan><tspan x="324.0" textLength="45.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">pauza</tspan></text>
+<text y="402.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="261.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#00cdcd">R</tspan><tspan x="324.0" textLength="36.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">nová</tspan><tspan x="369.0" textLength="27.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">hra</tspan></text>
+<text y="421.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="261.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#00cdcd">Q</tspan><tspan x="324.0" textLength="45.0" lengthAdjust="spacingAndGlyphs" fill="#d6d9e0">konec</tspan></text>
+<text y="440.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan></text>
+<text y="459.1" xml:space="preserve"><tspan x="36.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan><tspan x="225.0" textLength="9.0" lengthAdjust="spacingAndGlyphs" fill="#808080">║</tspan></text>
+<text y="478.1" xml:space="preserve"><tspan x="36.0" textLength="198.0" lengthAdjust="spacingAndGlyphs" fill="#808080">╚════════════════════╝</tspan></text>
+</svg>
